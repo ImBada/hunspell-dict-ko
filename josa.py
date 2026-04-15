@@ -303,6 +303,7 @@ groups['*'] = [
     JosaClass(
         rules=[
          ('을', COND_T_ALL, ''), ('를', COND_V_ALL, ''),
+         ('을요', COND_T_ALL, ''), ('를요', COND_V_ALL, ''),
          ('과', COND_T_ALL, ''), ('와', COND_V_ALL, ''),
          ('과는', COND_T_ALL, ''), ('와는', COND_V_ALL, ''),
          ('관', COND_T_ALL, ''), ('완', COND_V_ALL, ''),
