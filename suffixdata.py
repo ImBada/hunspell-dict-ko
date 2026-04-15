@@ -2405,6 +2405,28 @@ groups['-다니'] = [
 ]
 
 ####
+# 종결: -ㄴ다니까, -는다니까
+
+groups['-는다니까'] = [
+    {'rules': [['-%s다니까' % T_NIEUN, COND_V_ALL, ''],
+               ['-%s다니까' % T_NIEUN, T_RIEUL, T_RIEUL],
+               ['-는다니까', COND_T_NOT_RIEUL, '']],
+     'after': ['#동사', '-으시-'],
+     },
+]
+attach_emphasis(groups['-는다니까'], ['요'])
+
+####
+# 종결: -다니까
+
+groups['-다니까'] = [
+    {'rules': [['-다니까', '', '']],
+     'after': ['#용언', '-으시-', '-었-', '-겠-'],
+     },
+]
+attach_emphasis(groups['-다니까'], ['요'])
+
+####
 # 연결: -자는 (-자고 하는)
 
 groups['-자는'] = [
