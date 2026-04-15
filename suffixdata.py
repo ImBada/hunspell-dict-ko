@@ -883,7 +883,7 @@ groups['-을지'] = copy_group(groups['-을'])
 for klass in groups['-을지']:
     for r in klass['rules']:
         r[0] = r[0] + '지'
-attach_emphasis(groups['-을지'], ['는', T_NIEUN, '도'])
+attach_emphasis(groups['-을지'], ['는', T_NIEUN, '도', '요', '도요'])
 
 ####
 # 연결: -ㄹ지라도, -을지라도
