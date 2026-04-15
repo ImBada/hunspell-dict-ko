@@ -28254,6 +28254,7 @@ entries:
   word: 드러내다
 - pos: 동사
   props:
+  - ㅂ불규칙
   - 용언합성
   word: 드러눕다
 - pos: 명사
