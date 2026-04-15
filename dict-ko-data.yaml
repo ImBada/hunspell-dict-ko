@@ -89885,6 +89885,8 @@ entries:
   word: 짤막하다
 - pos: 형용사
   word: 짧다
+- pos: 형용사
+  word: 짧디짧다
 - pos: 동사
   props:
   - 용언합성
