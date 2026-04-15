@@ -101232,6 +101232,8 @@ entries:
   word: 평형
 - pos: 명사
   word: 평화
+- pos: 부사
+  word: 평화로이
 - pos: 형용사
   props:
   - ㅂ불규칙
