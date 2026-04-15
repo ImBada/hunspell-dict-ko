@@ -1160,6 +1160,7 @@ groups['-으려고'] = copy_group(groups['-으려'])
 for klass in groups['-으려고']:
     for r in klass['rules']:
         r[0] = r[0] + '고'
+attach_emphasis(groups['-으려고'], ['요'])
 
 ####
 # 연결: -려다, -으려다 (려고 하다)
