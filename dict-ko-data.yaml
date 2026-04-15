@@ -75194,6 +75194,10 @@ entries:
   word: 이양하다
 - pos: 부사
   word: 이어
+- pos: 동사
+  props:
+  - 용언합성
+  word: 이어가다
 - pos: 명사
   word: 이어달리기
 - pos: 동사
