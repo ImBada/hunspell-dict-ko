@@ -12566,6 +12566,10 @@ entries:
   word: 궁금증
 - pos: 형용사
   word: 궁금하다
+- pos: 동사
+  props:
+  - 용언합성
+  word: 궁금해하다
 - pos: 부사
   word: 궁금히
 - pos: 명사
