@@ -29954,6 +29954,7 @@ entries:
   word: 뛰어오다
 - pos: 동사
   props:
+  - 르불규칙
   - 용언합성
   word: 뛰어오르다
 - pos: 동사
