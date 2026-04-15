@@ -385,6 +385,7 @@ groups['*'] = [
          ('부턴', COND_ALL, ''),
          ('부터라도', COND_ALL, ''),
          ('서', COND_ALL, ''),           # '~에서' 준말
+         ('씩', COND_ALL, ''),
          ('에', COND_ALL, ''),
          ('에게', COND_ALL, ''),
          ('에게까지', COND_ALL, ''),      # + 보조사 추가
