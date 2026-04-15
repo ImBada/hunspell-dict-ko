@@ -294,6 +294,7 @@ groups['!보조사'] = [
                ('만', COND_ALL, ''),
                ('은', COND_T_ALL, ''), ('는', COND_V_ALL, ''),
                ('은커녕', COND_T_ALL, ''), ('는커녕', COND_V_ALL, ''),
+               ('라면', COND_V_ALL, ''), ('이라면', COND_T_ALL, ''),
                ],
         after=['#부사', '#체언'],
     ),
