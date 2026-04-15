@@ -388,6 +388,13 @@ groups['*'] = [
          ('부터라도', COND_ALL, ''),
          ('서', COND_ALL, ''),           # '~에서' 준말
          ('씩', COND_ALL, ''),
+         ('쯤', COND_ALL, ''),
+         ('쯤에', COND_ALL, ''),
+         ('쯤에는', COND_ALL, ''),
+         ('쯤에도', COND_ALL, ''),
+         ('쯤엔', COND_ALL, ''),
+         ('쯤은', COND_ALL, ''),
+         ('쯤이면', COND_ALL, ''),
          ('에', COND_ALL, ''),
          ('에게', COND_ALL, ''),
          ('에게까지', COND_ALL, ''),      # + 보조사 추가
